@@ -1,6 +1,6 @@
 #Dichiarare le variabili di tipo float
-x = float(input('What's x? '))
-y = float(input('What's y? '))
+x = float(input("What's x? "))
+y = float(input("What's y? "))
 
 #Arrotonda la somma di x + y
 z = round(x + y)
